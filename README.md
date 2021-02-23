@@ -24,7 +24,7 @@ Many bacteria species are not well studied and many more are unknown. We are tas
 ![bubble](https://github.com/amylio/BellyButtonBiodiversity/blob/main/Images/bubblechart.png)
  
 * Use `HTML` and `Bootstrap` components to display the results, add images, webpage customization and interactive buttons (i.e. dropdown list)
-* Publish final, working webpage using `GitHub/GitPages` to allow users access without the needs to store the script in their local drives.
+* Publish final, working webpage using `GitHub/GitPages` to allow users access without the need to store the script and data in their local drives.
 
 # Results
 
