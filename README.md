@@ -11,15 +11,15 @@ Many bacteria species are not well studied and many more are unknown. We are tas
 * Build the code in `Javascript` to read data file in `.json` format using `d3 (Data Driven Documents)`
   * Create variables that will collect data such as `ID`,`Gender`,`Bacteria Name`, etc.
 * Develop chart properties to visualize:
-  * **Bar Chart** = The Top 10 Bacteria Cultures Found
+  * **Bar Chart**
   
 ![barchart](https://github.com/amylio/BellyButtonBiodiversity/blob/main/Images/newplot.png)
  
-  * **Gauge Chart** = Frequency of Belly Button Washing
+  * **Gauge Chart**
  
 ![gauge](https://github.com/amylio/BellyButtonBiodiversity/blob/main/Images/Gauge.png)
  
-  * **Bubble Chart** = Bacteria Cultures per Sample
+  * **Bubble Chart**
  
 ![bubble](https://github.com/amylio/BellyButtonBiodiversity/blob/main/Images/bubblechart.png)
  
