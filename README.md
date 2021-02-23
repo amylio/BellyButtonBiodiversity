@@ -6,7 +6,7 @@ Build a webpage using `Plotly.js`, a Javascript visualization library to plot da
 
 # Overview
 
-Many bacteria species are not well studied and many more are unknown. We are tasked to assist a **Rosa**, a biomedical researcher who is responsible to study and document these bacterias.  She is particularly interested in bacteria that synthesize proteins that taste like beef. Alternative meat companies have been successful in synthesizing this flavor profile using bacteria found in algae, and a few other organic matters. **Improbable Foods** is interested in finding the "perfect" flavor. Rosa believes that there might be a microorganism that can achieve the results that they are looking for. She theorizes that the ideal bacteria may be found in the human body, specifically the "belly button". In order to consolidate the data that has been collected, we need to build a dashboard that can be accessed from anywhere. This webpage will be the main source to access the data for Rosa and her team, as well as, anonymous participants that submitted samples. To start:
+Many bacteria species are not well studied and many more are unknown. We are tasked to assist a **Rosa**, a biomedical researcher who is responsible to study and document these bacterias.  She is particularly interested in bacteria that synthesize proteins that taste like beef. Alternative meat companies have been successful in synthesizing this flavor profile using bacteria found in algae, and a few other organic matters. **Improbable Foods** is interested in finding the "perfect" flavor. Rosa believes that there might be a microorganism that can achieve the results that they are looking for. She theorizes that the ideal bacteria may be found in the human body, specifically the "belly button". In order to consolidate the data that has been collected, Rosa would like us to create a dashboard that can be accessed from anywhere. This webpage will be the main source for research team, as well as, the anonymous participants that are interested in knowing about the bacterias that have colonized in their belly buttons. To start:
 
 * Build the code in `Javascript` to read data file in `.json` format using `d3 (Data Driven Documents)`
   * Create variables that will collect data such as `ID`,`Gender`,`Bacteria Name`, etc.
@@ -29,7 +29,8 @@ Many bacteria species are not well studied and many more are unknown. We are tas
 # Results
 
 Published page can be access by clicking [here](https://amylio.github.io/BellyButtonBiodiversity/). 
-***Tip: Best viewed on a desktop as the page has not been updated to be mobile responsive.***
+
+***Tip: Best viewed on a desktop as the page has not been optimized to be mobile responsive.***
 
 ![final](https://github.com/amylio/BellyButtonBiodiversity/blob/main/Images/Finalwebpage.png)
 
