@@ -26,6 +26,8 @@ Many bacteria species are not well studied and many more are unknown. We are tas
 * Use `HTML` and `Bootstrap` components to display the results, add images, webpage customization and interactive buttons (i.e. dropdown list)
 * Publish final, working webpage using `GitHub/GitPages` to allow users access without the needs to store the script in their local drives.
 
+# Results
+
 Publish page can be access by clicking [here](https://amylio.github.io/BellyButtonBiodiversity/).
 
 ![final](https://github.com/amylio/BellyButtonBiodiversity/blob/main/Images/Finalwebpage.png)
