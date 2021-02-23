@@ -28,7 +28,7 @@ Many bacteria species are not well studied and many more are unknown. We are tas
 
 # Results
 
-Publish page can be access by clicking [here](https://amylio.github.io/BellyButtonBiodiversity/).
+Published page can be access by clicking [here](https://amylio.github.io/BellyButtonBiodiversity/).
 
 ![final](https://github.com/amylio/BellyButtonBiodiversity/blob/main/Images/Finalwebpage.png)
 
